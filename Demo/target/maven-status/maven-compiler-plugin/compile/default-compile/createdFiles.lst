@@ -1,0 +1,6 @@
+modelo\Demo.class
+dao\Conexion.class
+com\mycompany\demo\resources\JavaEE8Resource.class
+controlador\DemoC.class
+com\mycompany\demo\JAXRSConfiguration.class
+dao\DemoImpl.class
